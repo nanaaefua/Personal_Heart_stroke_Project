@@ -5,7 +5,10 @@ __pycache__/
 
 # Password db 
 config.py
+<<<<<<< HEAD
 
+=======
+>>>>>>> c57f97d90ea8bb6ceb948d5bc0068ab2b274f31f
 # C extensions
 *.so
 
